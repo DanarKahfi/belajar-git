@@ -1,7 +1,8 @@
 let dignitasBatch5 = [
     { nama: "cecil", nilai: 90 },
     { nama: "Najwa", nilai: 80 },
-    { nama: "Danar", nilai: 78 }
+    { nama: "Danar", nilai: 78 },
+    { nama: "Rayner", nilai: 65 }
 ]
 let totalNilai = 0
 for (let i = 0; i < dignitasBatch5.length; i++) {
