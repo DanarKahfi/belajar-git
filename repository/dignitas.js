@@ -1,0 +1,1 @@
+const siswa = ["Cecil", "Nazwah", "Maulana", "Danar", "Tyo", "Rayner", "Fauzi"]
